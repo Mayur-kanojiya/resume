@@ -1,0 +1,19 @@
+body{
+	background-color: #d6f9ff;
+}
+#mkp{
+	width: 150px; 
+	height: 160px;
+	border-radius: 50%;
+}
+#gp{
+	width: 30px;
+	height: 28px;
+}
+p{
+	font-size: 21px;
+	font-family: 'Cormorant Upright', serif;
+}
+h2{
+	font-family: 'Grenze Gotisch', cursive;
+}
